@@ -13,6 +13,6 @@ This is a simple two-page website created using **HTML** and **CSS**. It include
 - **style.css**: The CSS file for styling both pages.  
 
 ## How to view
-1. You can access my portfolio website by visiting [link] feel free to explore the content and get in touch! 
+1. You can access my portfolio website by visiting [https://dhivyx.github.io/Portfolio-simple-website/] feel free to explore the content and get in touch! 
 
 Thank you for visiting my portfolioo website!
